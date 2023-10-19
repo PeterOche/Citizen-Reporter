@@ -24,5 +24,5 @@ Firebase Account
 ## Contact
 If you have any questions or need assistance, you can reach out to:
 
-Your Name
-Your Email
+Peter Goddey
+Petergoddey08@gmail.com
